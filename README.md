@@ -1,8 +1,3 @@
-# 1. Make sure you are in the right folder
-cd "C:/Users/gopik/OneDrive/Desktop/personal-file-sharing"
-
-# 2. Overwrite README.md with the new content
-echo "# 📂 Personal File Sharing (Serverless App)
 
 A **serverless file-sharing application** built with **AWS Lambda, API Gateway, and S3**, with a simple **frontend in HTML, CSS, and JavaScript**.  
 This project allows users to securely **upload and download files** via API endpoints without directly exposing the S3 bucket.
