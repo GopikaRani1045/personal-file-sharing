@@ -86,14 +86,5 @@ personal-file-sharing/
 ## ✨ Author
 👩‍💻 **Gopika Rani**  
 📅 2025  
-" > README.md
 
-# 3. Stage the new README
-git add README.md
-
-# 4. Commit changes
-git commit -m "Added detailed README.md with project documentation"
-
-# 5. Push to GitHub
-git push origin main
 
